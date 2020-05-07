@@ -11,7 +11,9 @@
 * The data for this project was obtained from [Kaggle](https://www.kaggle.com/c/m5-forecasting-accuracy/data). 
 
 ### Jupyter notebooks
-* Abzal: [HKHR_Abzal.ipynb](https://github.com/timhugele/Hong_Kong_Horse_Racing/blob/Abzal/HKHR_Abzal.ipynb)
+*  [Part_1](https://github.com/xs-abzal/WM-Sales-Forecast/blob/master/project_4_part_1.ipynb)
+*  [Part_2](https://github.com/xs-abzal/WM-Sales-Forecast/blob/master/project_4_part_2.ipynb)
+
 
 ### Project Presentation
 * [Google Slides](https://docs.google.com/presentation/d/1I-_lNrihv-WcC2apumHdVU8K0CA6cHCGEjDlf1_lXig/edit?usp=sharing)
