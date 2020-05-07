@@ -26,7 +26,8 @@
 
 
 ### Key Takeaways
-* Moving average of sales are date features are important
+* Around 14% of the retail items generated 50% of the revenue. 
+* Moving average of sales are date features are important.
 * Scaled version of the model for the whole dataset(around 50mln rows) could be compute-intensive.
 
 
