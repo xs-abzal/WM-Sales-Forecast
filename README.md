@@ -24,7 +24,7 @@
 
 
 ### Metrics
-* For this project I used RMSE as a metric. It serves as good approxiamtion of WRMSSE, particulary, when applied for a each item separately.  
+* For this project I used RMSE as a metric. It serves as good approxiamtion of WRMSSE, particulary, when applied for an each item separately.  
 
 
 ### Key Takeaways
