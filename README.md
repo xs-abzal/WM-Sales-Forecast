@@ -35,7 +35,7 @@
 
 ### Next Steps
 * Create better features
-* Find good validation strategy
+* Apply good validation strategy
 * Improve model accuracy
 * Explore options to reduce computation time
 * Scale solution to the whole dataset
